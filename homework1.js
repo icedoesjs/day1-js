@@ -55,3 +55,8 @@ console.log(replaceEvens(input_arr))
 Given arr == ["Max","Baseball","Reboot","Goku","Trucks","Rodger"]
 Output arr == ["even index","Baseball","even index","Goku","even index","Rodger"]
 */
+
+/*
+https://www.codewars.com/kata/587731fda577b3d1b0001196
+https://www.codewars.com/kata/5949481f86420f59480000e7
+*/
