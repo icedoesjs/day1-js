@@ -31,7 +31,7 @@ function findWords(string, names = []){
     return (match != 0) ? match : 'No Match'
 }
 
-console.log(findWords(dog_string, dog_names)); // Returns purple
+console.log(findWords(dog_string, dog_names)); 
 
 //Call method here with parameters
 
